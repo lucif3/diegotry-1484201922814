@@ -57,7 +57,7 @@ function initDBConnection() {
 //				dbCredentials.url = vcapServices[vcapService][0].credentials.url;
 			dbCredentials.host = "a68fdc0a-241d-4dba-813a-597b5149884d-bluemix.cloudant.com";
 		dbCredentials.port = 443;
-		dbCredentials.user = "a68fdc0a-241d-4dba-813a-597b5149884d-bluemix";
+		dbCredentials.user = "a68fdc0a-21d-4dba-813a-597b5149884d-bluemix";
 		dbCredentials.password = "691ad81646af51027d9ba7bec1e082d8fb05f5f0c26e18ef5d169489ea43249b";
 		dbCredentials.url = "https://a68fdc0a-241d-4dba-813a-597b5149884d-bluemix:691ad81646af51027d9ba7bec1e082d8fb05f5f0c26e18ef5d169489ea43249b@a68fdc0a-241d-4dba-813a-597b5149884d-bluemix.cloudant.com";
 			
